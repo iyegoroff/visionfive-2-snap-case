@@ -1,6 +1,6 @@
 # StarFive VisionFive 2 snap case
 
-![image](img/IMG_20240731_230127.jpg)
+![image](img/img1.jpg)
 
 There are two versions of the case uploaded as stl files:
 
