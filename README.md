@@ -14,3 +14,5 @@ when mounted.
 Different types of cases could be created with OpenSCAD customizer. Before printing custom
 case please check everything twice since it is possible to generate unusable case when 
 moving far away from provided parameter presets. 
+
+All cases in the photos were printed using PETG and a layer height of 0.2 mm.
